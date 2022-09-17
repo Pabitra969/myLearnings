@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84853758-9c71-4e9b-8c04-ace6cbe10fed" name="Changes" comment="my code">
-      <change beforePath="$PROJECT_DIR$/src/recursion/xPowerN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion/xPowerN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursion/xPowerNOptimized.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +57,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.xPowerN">
+  <component name="RunManager" selected="Application.xPowerNOptimized">
     <configuration name="checkSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="recursion.checkSortedArray" />
       <module name="myJavaCode" />
@@ -79,13 +80,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="firstCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="firstCode" />
-      <module name="myJavaCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -116,13 +110,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="xPowerNOptimized" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursion.xPowerNOptimized" />
+      <module name="myJavaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.xPowerNOptimized" />
         <item itemvalue="Application.xPowerN" />
         <item itemvalue="Application.lastOccurence" />
         <item itemvalue="Application.checkSortedArray" />
         <item itemvalue="Application.fibonacci" />
-        <item itemvalue="Application.firstCode" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663406800663</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="my code">
+      <created>1663407370159</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1663407370159</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -217,5 +231,24 @@
     <MESSAGE value="my second commit" />
     <MESSAGE value="my code" />
     <option name="LAST_COMMIT_MESSAGE" value="my code" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StackOverflowError" package="java.lang" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/recursion/xPowerNOptimized.java</url>
+          <line>7</line>
+          <properties class="recursion.xPowerNOptimized" method="optimisedPower">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
