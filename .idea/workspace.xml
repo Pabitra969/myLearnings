@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84853758-9c71-4e9b-8c04-ace6cbe10fed" name="Changes" comment="my code">
-      <change afterPath="$PROJECT_DIR$/src/recursion/xPowerNOptimized.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursion/tilingProblem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +36,15 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/firstCode.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/recursion/checkSortedArray.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/recursion/fibonacci.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/recursion/lastOccurence.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/recursion/tilingProblem.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/recursion/xPowerN.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/recursion/xPowerNOptimized.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -57,7 +66,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.xPowerNOptimized">
+  <component name="RunManager" selected="Application.tilingProblem">
     <configuration name="checkSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="recursion.checkSortedArray" />
       <module name="myJavaCode" />
@@ -71,8 +80,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.fibonacci" />
+    <configuration name="lastOccurence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursion.lastOccurence" />
       <module name="myJavaCode" />
       <extension name="coverage">
         <pattern>
@@ -84,8 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lastOccurence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.lastOccurence" />
+    <configuration name="tilingProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursion.tilingProblem" />
       <module name="myJavaCode" />
       <extension name="coverage">
         <pattern>
@@ -125,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.tilingProblem" />
         <item itemvalue="Application.xPowerNOptimized" />
         <item itemvalue="Application.xPowerN" />
         <item itemvalue="Application.lastOccurence" />
         <item itemvalue="Application.checkSortedArray" />
-        <item itemvalue="Application.fibonacci" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663407370159</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="my code">
+      <created>1663434447147</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1663434447147</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
