@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84853758-9c71-4e9b-8c04-ace6cbe10fed" name="Changes" comment="my code">
-      <change afterPath="$PROJECT_DIR$/src/recursion/tilingProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursion/binaryStringProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursion/friendPairingProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursion/mergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursion/removeDuplicates.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +18,8 @@
   </component>
   <component name="ChangesViewManager">
     <option name="groupingKeys">
-      <option value="module" />
       <option value="directory" />
+      <option value="module" />
     </option>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -66,9 +69,9 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.tilingProblem">
-    <configuration name="checkSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.checkSortedArray" />
+  <component name="RunManager" selected="Application.mergeSort">
+    <configuration name="binaryStringProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursion.binaryStringProblem" />
       <module name="myJavaCode" />
       <extension name="coverage">
         <pattern>
@@ -80,8 +83,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lastOccurence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.lastOccurence" />
+    <configuration name="friendPairingProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursion.friendPairingProblem" />
+      <module name="myJavaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursion.mergeSort" />
+      <module name="myJavaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="removeDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursion.removeDuplicates" />
       <module name="myJavaCode" />
       <extension name="coverage">
         <pattern>
@@ -106,39 +135,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="xPowerN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.xPowerN" />
-      <module name="myJavaCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="xPowerNOptimized" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.xPowerNOptimized" />
-      <module name="myJavaCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.mergeSort" />
+        <item itemvalue="Application.binaryStringProblem" />
+        <item itemvalue="Application.friendPairingProblem" />
+        <item itemvalue="Application.removeDuplicates" />
         <item itemvalue="Application.tilingProblem" />
-        <item itemvalue="Application.xPowerNOptimized" />
-        <item itemvalue="Application.xPowerN" />
-        <item itemvalue="Application.lastOccurence" />
-        <item itemvalue="Application.checkSortedArray" />
       </list>
     </recent_temporary>
   </component>
@@ -228,7 +231,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663434447147</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="my code">
+      <created>1663507301930</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1663507301930</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -255,6 +265,10 @@
           <properties class="java.lang.StackOverflowError" package="java.lang" />
           <option name="timeStamp" value="3" />
         </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="6" />
+        </breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/recursion/xPowerNOptimized.java</url>
           <line>7</line>
@@ -263,6 +277,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/recursion/mergeSort.java</url>
+          <line>14</line>
+          <properties class="recursion.mergeSort" method="mergeSort1">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
