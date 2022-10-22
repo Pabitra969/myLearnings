@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84853758-9c71-4e9b-8c04-ace6cbe10fed" name="Changes" comment="my code">
-      <change afterPath="$PROJECT_DIR$/src/backtracking/find_subset.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/divide_conquer/quickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/divide_conquer/searchInRotatedSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_15_09_22,_5_26_pm_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_15_09_22__5_26_pm__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="84853758-9c71-4e9b-8c04-ace6cbe10fed" name="Changes" comment="my code" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -240,7 +233,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663610461998</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="my code">
+      <created>1666465220376</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1666465220377</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
