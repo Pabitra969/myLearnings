@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84853758-9c71-4e9b-8c04-ace6cbe10fed" name="Changes" comment="my code" />
+    <list default="true" id="84853758-9c71-4e9b-8c04-ace6cbe10fed" name="Changes" comment="my code">
+      <change afterPath="$PROJECT_DIR$/src/backtracking/find_permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backtracking/n_queens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backtracking/n_quess_count.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,13 +68,13 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.firstCode">
-    <configuration name="binaryStringProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.binaryStringProblem" />
+  <component name="RunManager" selected="Application.n_quess_count">
+    <configuration name="find_permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backtracking.find_permutation" />
       <module name="myJavaCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="recursion.*" />
+          <option name="PATTERN" value="backtracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.mergeSort" />
+    <configuration name="n_queens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backtracking.n_queens" />
       <module name="myJavaCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="recursion.*" />
+          <option name="PATTERN" value="backtracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="quickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="divide_conquer.quickSort" />
+    <configuration name="n_quess_count" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backtracking.n_quess_count" />
       <module name="myJavaCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="divide_conquer.*" />
+          <option name="PATTERN" value="backtracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.n_quess_count" />
+        <item itemvalue="Application.n_queens" />
+        <item itemvalue="Application.find_permutation" />
         <item itemvalue="Application.firstCode" />
         <item itemvalue="Application.find_subset" />
-        <item itemvalue="Application.quickSort" />
-        <item itemvalue="Application.mergeSort" />
-        <item itemvalue="Application.binaryStringProblem" />
       </list>
     </recent_temporary>
   </component>
@@ -240,7 +245,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666465220377</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="my code">
+      <created>1666465790048</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1666465790048</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -288,6 +300,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/backtracking/n_queens.java</url>
+          <line>15</line>
+          <properties class="backtracking.n_queens" method="nQueens">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
