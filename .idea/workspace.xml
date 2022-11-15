@@ -5,9 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84853758-9c71-4e9b-8c04-ace6cbe10fed" name="Changes" comment="my code">
-      <change afterPath="$PROJECT_DIR$/src/backtracking/find_permutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backtracking/n_queens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backtracking/n_quess_count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayList/basicArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayList/containerWithMostWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayList/multiDimentioArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayList/paiirSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedList/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops/BoxPrice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops/BoxWeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops/Oops.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,25 +64,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Java"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;ChangesTree.GroupingKeys&quot;: [
-      &quot;module&quot;,
-      &quot;directory&quot;
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "module",
+      "directory"
     ]
   }
-}</component>
-  <component name="RunManager" selected="Application.n_quess_count">
-    <configuration name="find_permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backtracking.find_permutation" />
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="yyryuyhi9bhikdeni8kmdn8km k     hubgh7ft6gfd5gtvcfh6y7vg65fd5d5trdt6yi9u8hu8gthi8h8jik8   " />
+      <recent name="yyryuyhi9bhikdeni8kmdn8km k     hubgh7ft6gfd5gtvcfh6y7vg65fd5d5trdt6y" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.Main" />
       <module name="myJavaCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="backtracking.*" />
+          <option name="PATTERN" value="oops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +99,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="find_subset" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backtracking.find_subset" />
+    <configuration name="Oops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.Oops" />
       <module name="myJavaCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="backtracking.*" />
+          <option name="PATTERN" value="oops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="basicArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrayList.basicArray" />
+      <module name="myJavaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,25 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="n_queens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backtracking.n_queens" />
+    <configuration name="paiirSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrayList.paiirSum" />
       <module name="myJavaCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="backtracking.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="n_quess_count" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backtracking.n_quess_count" />
-      <module name="myJavaCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="backtracking.*" />
+          <option name="PATTERN" value="arrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.n_quess_count" />
-        <item itemvalue="Application.n_queens" />
-        <item itemvalue="Application.find_permutation" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.firstCode" />
-        <item itemvalue="Application.find_subset" />
+        <item itemvalue="Application.Oops" />
+        <item itemvalue="Application.basicArray" />
+        <item itemvalue="Application.paiirSum" />
       </list>
     </recent_temporary>
   </component>
@@ -252,7 +269,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666465790048</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="my code">
+      <created>1666559784368</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1666559784368</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -309,6 +333,20 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/firstCode.java</url>
+          <line>1</line>
+          <properties class="firstCode" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arrayList/basicArray.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
