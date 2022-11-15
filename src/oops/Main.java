@@ -1,5 +1,7 @@
 package oops;
 
+import arrayList.BoxColour;
+
 public class Main {
     public static void main(String[] args) {
         Box box1 = new Box(3);
@@ -18,5 +20,8 @@ public class Main {
         // referencing child class via parent class but opposite is not possible
         Box box6 = new BoxWeight(2, 3, 4, 8);
 //        System.out.println(box4.h + "  " + box4.l + "  " + box4.w + "  " + box4.weight);
+
+        BoxColour box7 = new BoxColour();
+        BoxColour box8 = new BoxColour("green", 3);
     }
 }

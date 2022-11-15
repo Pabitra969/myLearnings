@@ -21,5 +21,6 @@ public class BoxWeight extends Box {
         this.weight = other.weight;
     }
 
+    // multiple inheritance is not allowed in java hierarchical inheritance is allowed in java
 
 }
