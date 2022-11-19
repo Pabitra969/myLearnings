@@ -1,4 +1,4 @@
-package oops;
+package oops.inheritance;
 
 public class BoxPrice extends BoxWeight {
     double cost;

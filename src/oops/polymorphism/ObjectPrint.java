@@ -22,6 +22,6 @@ public class ObjectPrint {
                                   // this is the runtime polymorphism.
     }
 
-    // final keyword is use to defend the override of the method
+    // final keyword is use to defend the override of the method and create constant method -- also used to prevent inheritance
     // "final" -- we can't override the method of the in which the final keyword is used before it -- also known as late binding
 }

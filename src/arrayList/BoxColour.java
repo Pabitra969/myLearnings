@@ -1,6 +1,6 @@
 package arrayList;
 
-import oops.BoxWeight;
+import oops.inheritance.BoxWeight;
 
 public class BoxColour extends BoxWeight {
     String colour;
