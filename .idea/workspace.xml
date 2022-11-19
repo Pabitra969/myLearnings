@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84853758-9c71-4e9b-8c04-ace6cbe10fed" name="Changes" comment="my code">
-      <change afterPath="$PROJECT_DIR$/src/oops/polymorphism/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/polymorphism/MainCalling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/polymorphism/Shapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/polymorphism/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/polymorphism/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops/polymorphism/ObjectPrint.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +75,7 @@
       <recent name="yyryuyhi9bhikdeni8kmdn8km k     hubgh7ft6gfd5gtvcfh6y7vg65fd5d5trdt6y" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.basicArray">
+  <component name="RunManager" selected="Application.ObjectPrint">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oops.Main" />
       <module name="myJavaCode" />
@@ -93,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainCalling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.polymorphism.MainCalling" />
+    <configuration name="ObjectPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.polymorphism.ObjectPrint" />
       <module name="myJavaCode" />
       <extension name="coverage">
         <pattern>
@@ -141,6 +137,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ObjectPrint" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.firstCode" />
         <item itemvalue="Application.Oops" />
@@ -290,7 +287,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668517086757</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="my code">
+      <created>1668830467664</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1668830467664</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
