@@ -33,4 +33,7 @@ public class Box {
         System.out.println("Running the box");
     }
 
+    static void greeting() {
+        System.out.println("Hey, I am in Box Class greeting!");
+    }
 }

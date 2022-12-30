@@ -23,4 +23,8 @@ public class BoxWeight extends Box {
 
     // multiple inheritance is not allowed in java hierarchical inheritance is allowed in java
 
+    static void greeting () {  // static does not
+        System.out.println("Hey, I am in the BoxWeight class.greetings!");
+    }
+
 }

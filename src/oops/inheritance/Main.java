@@ -23,5 +23,8 @@ public class Main {
 
         BoxColour box7 = new BoxColour();
         BoxColour box8 = new BoxColour("green", 3);
+
+        BoxWeight box9 = new BoxWeight();
+        box9.greeting();
     }
 }
