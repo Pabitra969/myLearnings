@@ -1,3 +1,3 @@
 # myLearnings
 Started Learning code in Java.
-my dream is to clear GSoC
+My dream is to clear GSoC
