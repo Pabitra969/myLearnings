@@ -6,6 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="84853758-9c71-4e9b-8c04-ace6cbe10fed" name="Changes" comment="my code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oops/inheritance/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/inheritance/Box.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oops/inheritance/BoxWeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/inheritance/BoxWeight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oops/inheritance/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/inheritance/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oops/polymorphism/Shapes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/polymorphism/Shapes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +69,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Color Scheme Font"
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Java"
   },
   "keyToStringList": {
     "ChangesTree.GroupingKeys": [
@@ -313,14 +317,7 @@
       <option name="project" value="LOCAL" />
       <updated>1668838531089</updated>
     </task>
-    <task id="LOCAL-00023" summary="my code">
-      <created>1672379782917</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1672379782917</updated>
-    </task>
-    <option name="localTasksCounter" value="24" />
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
